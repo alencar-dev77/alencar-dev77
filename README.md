@@ -18,13 +18,18 @@ Uso IA como ferramenta de engenharia no dia a dia, principalmente **Claude Code*
 
 ### Projetos
 
-**[Evergreen](https://github.com/alencar-dev77/evergreen)** — suíte de produtividade para a barra de menus do macOS, código aberto (GPL-3.0). Sete módulos em um app só: área de transferência, cronômetro, anotações, tela acesa, reuniões, prateleira de arquivos e o dia reconstruído. Tudo roda na sua máquina, com IA local.
+**Evergreen** — suíte de produtividade para a barra de menus do macOS, código aberto. Sete módulos em um app só, tudo rodando na sua máquina, com IA local. Requer Mac com Apple Silicon e macOS 14+.
 
-[![Baixar o Evergreen](https://img.shields.io/badge/Baixar_o_Evergreen-.dmg-58A6FF?style=for-the-badge&logo=apple&logoColor=white&labelColor=0D1117)](https://github.com/alencar-dev77/evergreen/releases/latest/download/Evergreen.dmg)
+[![Baixar o Evergreen](https://img.shields.io/badge/Baixar_o_Evergreen-0D1117?style=for-the-badge&logo=apple&logoColor=58A6FF)](https://github.com/alencar-dev77/evergreen/releases/latest/download/Evergreen.dmg)
+[![Código](https://img.shields.io/badge/C%C3%B3digo-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/alencar-dev77/evergreen)
 
-<sub>Mac com Apple Silicon (M1 ou mais novo) e macOS 14+. Assinado e notarizado pela Apple · [novidades da versão](https://github.com/alencar-dev77/evergreen/releases/latest)</sub>
+**Portfólio** — os projetos que estão no ar, com os cases de cada um.
 
-**[Rook One](https://rookone.com.br)** — estúdio que constrói, para cada marca cliente, o aplicativo que o consumidor usa e o painel que o dono opera.
+[![Portfólio](https://img.shields.io/badge/Ver_o_portf%C3%B3lio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF)](https://alencar-dev.vercel.app)
+
+**Rook One** — estúdio que constrói, para cada marca cliente, o aplicativo que o consumidor usa e o painel que o dono opera.
+
+[![Rook One](https://img.shields.io/badge/rookone.com.br-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://rookone.com.br)
 
 ---
 

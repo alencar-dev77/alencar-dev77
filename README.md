@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=48&lines=Desenvolvedor+de+Software;Flutter+%26+Dart+%C2%B7+Mobile;Construindo+produtos+pr%C3%B3prios" alt="Desenvolvedor de Software — Flutter e Dart — Mobile — Construindo produtos próprios" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=48&lines=Desenvolvedor+de+Software;Flutter+%26+Dart+%C2%B7+Mobile+%C2%B7+macOS;Construindo+produtos+pr%C3%B3prios" alt="Desenvolvedor de Software — Flutter e Dart — Mobile e macOS — Construindo produtos próprios" />
 
 # Lucas Alencar
 
@@ -16,6 +16,18 @@ Uso IA como ferramenta de engenharia no dia a dia, principalmente **Claude Code*
 
 ---
 
+### Projetos
+
+**[Evergreen](https://github.com/alencar-dev77/evergreen)** — suíte de produtividade para a barra de menus do macOS, código aberto (GPL-3.0). Sete módulos em um app só: área de transferência, cronômetro, anotações, tela acesa, reuniões, prateleira de arquivos e o dia reconstruído. Tudo roda na sua máquina, com IA local.
+
+[![Baixar o Evergreen](https://img.shields.io/badge/Baixar_o_Evergreen-.dmg-58A6FF?style=for-the-badge&logo=apple&logoColor=white&labelColor=0D1117)](https://github.com/alencar-dev77/evergreen/releases/latest/download/Evergreen.dmg)
+
+<sub>Mac com Apple Silicon (M1 ou mais novo) e macOS 14+. Assinado e notarizado pela Apple · [novidades da versão](https://github.com/alencar-dev77/evergreen/releases/latest)</sub>
+
+**[Rook One](https://rookone.com.br)** — estúdio que constrói, para cada marca cliente, o aplicativo que o consumidor usa e o painel que o dono opera.
+
+---
+
 ### Stack
 
 <table>
@@ -28,6 +40,11 @@ Uso IA como ferramenta de engenharia no dia a dia, principalmente **Claude Code*
     <td align="right"><b>Web</b></td>
     <td><img src="https://skillicons.dev/icons?i=nextjs,react,js,vercel&theme=dark" height="42" alt="Next.js, React, JavaScript, Vercel" /></td>
     <td><sub>SSR · Deploy contínuo</sub></td>
+  </tr>
+  <tr>
+    <td align="right"><b>macOS</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,swift,apple&theme=dark" height="42" alt="Flutter, Swift, Apple" /></td>
+    <td><sub>IA local</sub></td>
   </tr>
   <tr>
     <td align="right"><b>Dev</b></td>
@@ -57,9 +74,9 @@ Uso IA como ferramenta de engenharia no dia a dia, principalmente **Claude Code*
 ### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-alencar-simoes/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF)](https://alencar-dev.vercel.app)
+[![Rook One](https://img.shields.io/badge/rookone.com.br-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://rookone.com.br)
 
-<!-- Espaços reservados — adicionar quando os links existirem:
-[![Site](https://img.shields.io/badge/Site-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=58A6FF)](URL_DO_SITE_PESSOAL)
+<!-- Espaço reservado — adicionar quando o link existir:
 [![Rook One](https://img.shields.io/badge/Rook_One-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](URL_LINKEDIN_ROOK_ONE)
-[![Rook One](https://img.shields.io/badge/rookone.dev-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](URL_SITE_ROOK_ONE)
 -->

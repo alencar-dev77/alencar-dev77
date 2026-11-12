@@ -8,11 +8,11 @@
 
 Desenvolvedor de software, formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Desenvolvimento Mobile com ênfase em Flutter.
 
-Antes de migrar para desenvolvimento, passei anos trabalhando com redes e infraestrutura em bancos e órgãos públicos — bagagem que continuo usando quando o problema é de ambiente, e não de código.
+Antes de atuar como desenvolvedor, construí carreira em redes e infraestrutura em bancos e órgãos públicos — bagagem que continuo usando quando o problema é de ambiente, e não de código.
 
 Hoje atuo na **Diletta Solutions**, empresa de engenharia de software centrada em IA, com forte presença em banking, fintech e sistemas de missão crítica. Em paralelo, desenvolvo produtos próprios através da **Rook One**, uma ideia que está saindo do papel.
 
-Uso IA como ferramenta de engenharia no dia a dia, principalmente **Claude Code**. Boa parte do trabalho é justamente aprender a integrá-la bem ao processo — revisão, contexto e automação — sem terceirizar a decisão técnica.
+Uso IA como ferramenta de engenharia no dia a dia, principalmente **Claude Code**, e modelos locais pelo **LM Studio**. Boa parte do trabalho é justamente aprender a integrá-la bem ao processo — revisão, contexto e automação — sem terceirizar a decisão técnica.
 
 ---
 
